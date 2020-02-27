@@ -1,8 +1,9 @@
 import React from 'react';
+import './MainPage.css';
 
 function MainPage (){
     return(
-        <div>
+        <div className="container">
             <section>
               <div>
                 <p>3DTEAM 7117</p>
